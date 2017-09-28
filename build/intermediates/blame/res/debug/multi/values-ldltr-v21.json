@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/pageworth/Dragger/dragger/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/pageworth/.android/build-cache/5092f4dda5269e72e935e160412357ae0dab3249/output/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 112,
+                        "endOffset": 406
+                    }
+                }
+            }
+        ]
+    }
+]
